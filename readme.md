@@ -1,25 +1,29 @@
-# The Name of My App
+# SPORTS FEVER TRIVIA
 
-a description of my project
+I'll be creating a sports trivia game, creating questions based off of the sports leagues NHL, NBA, NFL, and MLB in the United States.
 
-### Technologies Used
+### TRIVIA GAME TRACK
 
-- tech
-- tech 2
-- tech 3
-- tech 4
+#### Categories
+- NHL
+- NBA
+- MLB
+- NFL
 
-### Wireframes
+### Wireframes https://www.figma.com/file/N9pwP59QLKh2hTmQH85Me5/TRIVIA?node-id=0%3A1
 
-![SOme text](https://i.ytimg.com/vi/mRf3-JkwqfU/mqdefault.jpg)
+![SOme text](https://i.imgur.com/41lgPFj.jpg?1)
 
 ### Daily Plan
 
 | Day | Goal |
 |-----|------|
-| 1 | Choose API |
-| 2 | Render data to screen |
-| 3 | Create form |
+| 1 | Create data and using AJAX request to pull data|
+| 2 | Creating functionality for the Trivia Game |
+| 3 | Working on design
+| 4 | Styling
+| 5 | Learning on how best implement technologies being used
+| 6/7 | Making sure everything comes together and going over all code
 
 ### Link to Project
-[My Project Live Page](https://www.google.com)
+[My Project Live Page](https://alenmnoian4.github.io/AM/)
